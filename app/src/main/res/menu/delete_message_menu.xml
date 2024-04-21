@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- delete_message_menu.xml -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/delete_sender_only"
+        android:title="Delete for me" />
+    <item
+        android:id="@+id/delete_both"
+        android:title="Delete for both" />
+</menu>
